@@ -1,0 +1,1 @@
+The Sundering was the god-war that resulted in the continent being shatter into three, unable to traverse between them. What was once known as Taeltoranou, the remainder of continent the campaign takes place on is [[Menei Vorios]]

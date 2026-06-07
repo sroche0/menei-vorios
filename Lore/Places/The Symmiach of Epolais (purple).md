@@ -1,0 +1,3 @@
+A contentious collection of independent city-states with much political infighting, the Symmiach of Epolais, “the alliance of surviving city-states,” grew from the outskirts of civilization on Taeltoranou to the primary centers of civilization on [[Menei Vorios]]. Each city-state is ruled by a noble family with the Sevistheixi, a mark establishing proof that they were indeed chosen by the gods before they sealed themselves away beyond the Divine Gate. While each city-state is self-sufficient, some have embraced the favor of their “patron deity.” The campaign will start somewhere here!
+
+Common Races: humans, elves, half-elves, halflings, gnomes, leonin, triton*, genasi*

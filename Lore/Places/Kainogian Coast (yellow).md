@@ -1,0 +1,3 @@
+A newly formed coastlinein [[Menei Vorios]]  due to the [[Sundering of Taeltoranou]] has forced the settlements of Kainogian Coast to adapt to a new wholly new lifestyle. Once a more peaceful farming region, the ocean waters destroyed a majority of farmland. This sudden shift caused settlements to be abandoned or to turn towards trade-based economies. While some settlements have clung to those with the [[Sevistheixi]] in their traditional role, other settlements have been shaped by those with the [[Sevistheixi]] embracing mercantilism.
+
+Common Races: halflings, tortles, tiefling, humans, elves, half-elves, dwarves, gnomes, triton*, genasi*

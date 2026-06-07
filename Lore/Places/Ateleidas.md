@@ -1,0 +1,1 @@
+City in the [[Kainogian Coast (yellow)]]. Ateledias is the central-most city in the region that is centered in the [[Alatiga Deadwoods]] (formerly Alatiga Heartwoods), which was a vibrant forest that died when the continent shattered and the formerly central forest suddenly became coastal
