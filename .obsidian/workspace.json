@@ -11,10 +11,24 @@
             "id": "75fac97ef373dcec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
             }
           }
         ]
@@ -192,6 +206,9 @@
   },
   "active": "75fac97ef373dcec",
   "lastOpenFiles": [
+    "Quests/Placeholder.md",
+    "Sessions/Session 1.md",
+    "Characters/Placeholder.md",
     "Untitled.canvas",
     "Lore/Events/Sundering of Taeltoranou.md",
     "Lore/Places/Menei Vorios.md",
