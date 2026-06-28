@@ -1,0 +1,1 @@
+Human Paladin. Wields a greatsword

@@ -1,2 +1,3 @@
 Private/
 exclude*
+.DS_Store
