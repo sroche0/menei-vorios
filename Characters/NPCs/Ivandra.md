@@ -1,0 +1,1 @@
+Tiefling Scout from camp. Experienced but antisocial
