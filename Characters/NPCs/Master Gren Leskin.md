@@ -1,0 +1,3 @@
+Leader of the archaelogical dig we were hired to guard. Middle aged woman with short cropped hair
+
+Member of the [[Phoenicious dawn]] 

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75fac97ef373dcec",
+            "id": "c06142fa712b5016",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0.md",
+                "file": "Sessions/Session 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Session 1"
             }
           }
         ]
@@ -205,37 +205,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75fac97ef373dcec",
+  "active": "c06142fa712b5016",
   "lastOpenFiles": [
+    "D'mia Vuurhand.md",
+    "Sessions/Session 1.md",
+    "russet mold.md",
+    "Tie.md",
+    "Lore/Mythology/Efara.md",
+    "Lore/Mythology/Gods.md",
+    "Characters/PCs/Trevar.md",
+    "Lore/Phoenicious dawn.md",
+    "Lore/Mythology/Hellia.md",
+    "Characters/NPCs/Master Gren Leskin.md",
     "Sessions/Session 0.md",
-    "Lore/darklings.md",
-    "Lore/Naiad.md",
+    "Lore/Events/Sundering of Taeltoranou.md",
     "Lore/shrine.md",
+    "Lore/eldren.md",
+    "Lore/darklings.md",
+    "Lore/Sendrion.md",
+    "Lore/Naiad.md",
     "Lore/Lumpad.md",
     "Lore/Alseed.md",
-    "Lore/Sendrion.md",
-    "Lore/eldren.md",
-    "Characters/NPCs/master gren.md",
-    "Characters/NPCs/Ivandra.md",
-    "Characters/NPCs",
     "Characters/PCs/Raya.md",
     "Characters/PCs/Kentucky Black.md",
     "Characters/PCs/Eltimaine.md",
     "Characters/PCs/Crimini.md",
     "Characters/PCs",
-    "Session 0.md",
-    "Sessions/Session 1.md",
-    "Lore/Events/Sundering of Taeltoranou.md",
+    "Characters/NPCs/Ivandra.md",
+    "Characters/NPCs",
     "Quests/Placeholder.md",
-    "Characters/Placeholder.md",
+    "Session 0.md",
     "Untitled.canvas",
-    "Lore/Places/Menei Vorios.md",
-    "Lore/Places/The Symmiach of Epolais (purple).md",
-    "Lore/Places/Kremnis Isles (red).md",
-    "Lore/Places/Kainogian Coast (yellow).md",
-    "Lore/Places/Ateleidas.md",
-    "Lore/Mythology/Gods.md",
-    "Meni Vorios.md",
     "Lore/Mythology",
     "Lore/Events",
     "Lore/Places",

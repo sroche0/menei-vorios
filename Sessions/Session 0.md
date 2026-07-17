@@ -1,6 +1,6 @@
 There was an attack on the camp by [[darklings]]. We were able to drive them off but they were able to grab the egg that had been recently unearthed. Three archaeologists were hurt in the attack before we drove off the [[darklings]]. Unfortunately one of them died before i was able to stabilize them.
 
-[[master gren]] summoned us to their tent afterward and tasked us with tracking down the darklings. They offered 25g each for retreiving the egg and gave us a requisition order to get supplies from the quartermaster. [[Eltimaine]] continues to terrorize this poor assistant
+[[Master Gren Leskin]] summoned us to their tent afterward and tasked us with tracking down the darklings. They offered 25g each for retreiving the egg and gave us a requisition order to get supplies from the quartermaster. [[Eltimaine]] continues to terrorize this poor assistant
 
 We went to talk to some of the scouts of the expeditionto try to get a lay of the land around the dig site. They didnt have any maps drawn up yet but we hired on [[Ivandra]] to come with us for a mere 2gp thanks to [[Kentucky Black|Kentucky's]] negotiations
 
