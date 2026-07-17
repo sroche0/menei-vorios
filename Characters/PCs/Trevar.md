@@ -1,0 +1,1 @@
+Brett' character. Huge muscley guy but actually a warlock. Has a creepy book he always reads and casts spells with.
