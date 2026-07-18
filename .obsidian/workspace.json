@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Sessions/Session 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Session 2"
             }
           }
         ]
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +206,9 @@
   },
   "active": "c06142fa712b5016",
   "lastOpenFiles": [
-    "D'mia Vuurhand.md",
     "Sessions/Session 1.md",
+    "Sessions/Session 2.md",
+    "D'mia Vuurhand.md",
     "russet mold.md",
     "Tie.md",
     "Lore/Mythology/Efara.md",
@@ -234,7 +234,6 @@
     "Characters/NPCs/Ivandra.md",
     "Characters/NPCs",
     "Quests/Placeholder.md",
-    "Session 0.md",
     "Untitled.canvas",
     "Lore/Mythology",
     "Lore/Events",
