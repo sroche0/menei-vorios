@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 2.md",
+                "file": "Lore/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "Untitled"
             }
           }
         ]
@@ -204,18 +204,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c06142fa712b5016",
+  "active": "42eda26f6da74060",
   "lastOpenFiles": [
-    "Lore/Mythology/Athreos.md",
+    "Lore/Creatures",
     "Sessions/Session 2.md",
+    "Lore/Untitled.md",
+    "Characters/NPCs/Ivandra.md",
     "Sessions/Session 1.md",
+    "Lore/Phoenicious dawn.md",
+    "Lore/Mythology/Athreos.md",
     "Characters/PCs/D'mia Vuurhand.md",
     "Lore/russet mold.md",
     "Characters/PCs/Tie.md",
     "Lore/Mythology/Efara.md",
     "Lore/Mythology/Gods.md",
     "Characters/PCs/Trevar.md",
-    "Lore/Phoenicious dawn.md",
     "Lore/Mythology/Hellia.md",
     "Characters/NPCs/Master Gren Leskin.md",
     "Sessions/Session 0.md",
@@ -229,10 +232,7 @@
     "Lore/Alseed.md",
     "Characters/PCs/Raya.md",
     "Characters/PCs/Kentucky Black.md",
-    "Characters/PCs/Eltimaine.md",
-    "Characters/PCs/Crimini.md",
     "Characters/PCs",
-    "Characters/NPCs/Ivandra.md",
     "Characters/NPCs",
     "Untitled.canvas",
     "Lore/Mythology",
