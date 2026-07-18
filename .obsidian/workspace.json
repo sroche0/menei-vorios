@@ -11,24 +11,10 @@
             "id": "c06142fa712b5016",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -204,18 +190,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42eda26f6da74060",
+  "active": "b07a199211708935",
   "lastOpenFiles": [
-    "Lore/Creatures",
     "Sessions/Session 2.md",
+    "Lore/russet mold.md",
     "Lore/Untitled.md",
+    "Lore/Mythology/Athreos.md",
+    "Characters/PCs/Tie.md",
+    "Characters/PCs/D'mia Vuurhand.md",
+    "russet mold.md",
+    "Tie.md",
+    "D'mia Vuurhand.md",
+    "Lore/Creatures",
     "Characters/NPCs/Ivandra.md",
     "Sessions/Session 1.md",
     "Lore/Phoenicious dawn.md",
-    "Lore/Mythology/Athreos.md",
-    "Characters/PCs/D'mia Vuurhand.md",
-    "Lore/russet mold.md",
-    "Characters/PCs/Tie.md",
     "Lore/Mythology/Efara.md",
     "Lore/Mythology/Gods.md",
     "Characters/PCs/Trevar.md",
@@ -230,8 +219,6 @@
     "Lore/Naiad.md",
     "Lore/Lumpad.md",
     "Lore/Alseed.md",
-    "Characters/PCs/Raya.md",
-    "Characters/PCs/Kentucky Black.md",
     "Characters/PCs",
     "Characters/NPCs",
     "Untitled.canvas",
