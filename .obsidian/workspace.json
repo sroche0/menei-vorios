@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "Sessions/Session 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Session 2"
             }
           }
         ]
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,14 +206,22 @@
   },
   "active": "c06142fa712b5016",
   "lastOpenFiles": [
-    "D'mia Vuurhand.md",
-    "Sessions/Session 1.md",
+    "Lore/Untitled.md",
+    "Sessions/Session 2.md",
+    "Lore/russet mold.md",
+    "Lore/Mythology/Athreos.md",
+    "Characters/PCs/Tie.md",
+    "Characters/PCs/D'mia Vuurhand.md",
     "russet mold.md",
     "Tie.md",
+    "D'mia Vuurhand.md",
+    "Lore/Creatures",
+    "Characters/NPCs/Ivandra.md",
+    "Sessions/Session 1.md",
+    "Lore/Phoenicious dawn.md",
     "Lore/Mythology/Efara.md",
     "Lore/Mythology/Gods.md",
     "Characters/PCs/Trevar.md",
-    "Lore/Phoenicious dawn.md",
     "Lore/Mythology/Hellia.md",
     "Characters/NPCs/Master Gren Leskin.md",
     "Sessions/Session 0.md",
@@ -226,15 +233,8 @@
     "Lore/Naiad.md",
     "Lore/Lumpad.md",
     "Lore/Alseed.md",
-    "Characters/PCs/Raya.md",
-    "Characters/PCs/Kentucky Black.md",
-    "Characters/PCs/Eltimaine.md",
-    "Characters/PCs/Crimini.md",
     "Characters/PCs",
-    "Characters/NPCs/Ivandra.md",
     "Characters/NPCs",
-    "Quests/Placeholder.md",
-    "Session 0.md",
     "Untitled.canvas",
     "Lore/Mythology",
     "Lore/Events",
