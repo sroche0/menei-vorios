@@ -11,10 +11,24 @@
             "id": "c06142fa712b5016",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 2"
             }
           }
         ]
@@ -190,11 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b07a199211708935",
+  "active": "c06142fa712b5016",
   "lastOpenFiles": [
+    "Lore/Untitled.md",
     "Sessions/Session 2.md",
     "Lore/russet mold.md",
-    "Lore/Untitled.md",
     "Lore/Mythology/Athreos.md",
     "Characters/PCs/Tie.md",
     "Characters/PCs/D'mia Vuurhand.md",
