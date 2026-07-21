@@ -1,1 +1,0 @@
-Fae shrine the darklings are using as a base of operation and retreated to with the egg. 3-4 hours from the dig site

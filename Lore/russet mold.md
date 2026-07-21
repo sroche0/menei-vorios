@@ -1,1 +1,0 @@
-The spores can give birth to veggie pymies from the remains of creatures killed by russet mold. The mold can only be killed by acid or necrotic damage. They smell like rust

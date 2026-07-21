@@ -1,13 +1,15 @@
 ---
 tags:
   - deity
-domain: the Polis (city)
+aliases:
+  - 
+domain: 
 symbol: 
 ---
 
 %% Who they are, their role among the gods, and how their worship shows up in the world. %%
 
-God of the Polis (city)
+
 
 > [!note]- Marked Bloodlines & Followers
 > 

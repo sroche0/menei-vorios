@@ -1,3 +1,24 @@
+---
+tags:
+  - place
+type: region
+region: "[[Menei Vorios]]"
+common-races:
+  - leonin
+  - tabaxi
+  - goliath
+  - firbolg
+  - half-orcs
+  - humans
+  - dragonborn
+  - dwarves
+  - satyr*
+  - genasi*
+---
+
+%% Geography, history, and how the Sundering shaped this place. %%
+
 A more unexplored area of [[Menei Vorios]], the Thialodias Highlands was originally considered too dangerous for exploration due to the abundance of dangerous creatures, rugged terrain and harsher climates. Following the Sundering of Taeltoranou, disconnected settlements from beyond the mountains have begun exploring eastward to reconnect with civilization, leading to new farming settlements in the southern Highlands. Some people still traverse the hills and mountains of the northern Highlands as nomads.
 
-Common Races: leonin, tabaxi, goliath, firbolg, half-orcs, humans, dragonborn, dwarves, satyr*, genasi*
+> [!note]- Notable Locations
+> 

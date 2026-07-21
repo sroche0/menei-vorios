@@ -1,13 +1,12 @@
 ---
 tags:
-  - pc
+  - npc
 aliases:
-  - Dmia
-  - D'mia
-player: 
+  - 
 race: 
-class: Paladin
 status: alive
+location: 
+affiliation: 
 ---
 
 > [!quote]
@@ -15,12 +14,11 @@ status: alive
 
 ## Appearance & Personality
 
-Paladin
 
-## Backstory
+## History
 
 
-## Relationships
+## Relationship to the Party
 
 
 > [!note]- GM Secrets & Hooks

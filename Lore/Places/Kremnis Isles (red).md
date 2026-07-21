@@ -1,1 +1,15 @@
+---
+tags:
+  - place
+type: region
+region: "[[Menei Vorios]]"
+common-races:
+  - 
+---
+
+%% Geography, history, and how the Sundering shaped this place. %%
+
 These islands were formed during the [[Sundering of Taeltoranou]], where parts of the northeastern land broke away from the remainder of [[Menei Vorios]]. Disconnected from the rest of the continent, the Kremnis Isles became a place of escape from the divine authority of the city-states. This allowed the Isles to grow into a pirate haven, terrorizing the eastern coast of Menei Vorios.
+
+> [!note]- Notable Locations
+> 

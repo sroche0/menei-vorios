@@ -2,11 +2,10 @@
 tags:
   - pc
 aliases:
-  - Dmia
-  - D'mia
+  - 
 player: 
 race: 
-class: Paladin
+class: 
 status: alive
 ---
 
@@ -15,7 +14,6 @@ status: alive
 
 ## Appearance & Personality
 
-Paladin
 
 ## Backstory
 
