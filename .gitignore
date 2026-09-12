@@ -3,4 +3,6 @@ exclude*
 .DS_Store
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
 __pycache__/
