@@ -2,7 +2,7 @@
 tags:
   - npc
 aliases:
-  - 
+  - Grey
 race:
 status: alive
 location: "[[Toudromi]]"
@@ -14,7 +14,7 @@ affiliation:
 
 ## Appearance & Personality
 
-
+Inquisitor of some variety
 ## History
 
 

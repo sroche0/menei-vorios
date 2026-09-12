@@ -15,7 +15,7 @@ We reach the city with no issues but theres a long line to get cleared to enter 
 
 [[Raya]] is really in her element in the city and takes the lead on navigating. She overhears some people talking in thieves cant. She understands that theres a big job going down being run by a tiefling involving a warehouse of some sort that should have a big payday. Its marked by a downward pointing triangle with an arrow through it. Maybe [[Ivandra]]? Unrelated to the seeming heist we find out way to the lodge and go inside. Behind the desk in the lobby is a half elf receptionist who directs us up to Elle's office. We go in and hand over the report. Elle was not happy to see us, they seemed very busy. Elle knew a little about the [[Cannoth Estate]] which is in the restricted heart of the city. Apparently the center of the city being shut is a new development and is very disruptive, its not just a general tradition. Its more like a complete closing of the borders to anyone who isnt wealthy and own property inside the inner ring. Elle directed us to [[Ganymede]] who is looking for help with an investigation that the [[Aphara|Apharan chruch]] doesnt have time to handle. Elle wants us to find out why the polis heart is shut down if possible. Ganymede said he can be found at [[Hazelnuts]] in the [[heart of the polis]]. [[Gregorious Goldweaver]] is an alchemist that can maybe help with our poisoning issue but hes apparently very shady
 
-We leave the lodge and make our way to Hazelnuts . 
+We leave the lodge and make our way to Hazelnuts. We got some coffee and the barista hinted that the lords of the city ay be sick, which might explain the heart of the polis being locked down. 
 
 ## NPCs Encountered
 
