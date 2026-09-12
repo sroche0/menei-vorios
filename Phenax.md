@@ -7,7 +7,7 @@ domain:
 symbol: 
 ---
 
-God of trickters, thieves, conmen, gamblers. Followers al
+God of tricksters, thieves, conmen, gamblers. Followers are almost always criminals. Phenax hates every other god in the pantheon and the feeling is mutual. Once tried to steal souls from the underworld and bring them back to life just to cause chaos. Caused an intense rift with [[Erebos]] 
 
 
 
