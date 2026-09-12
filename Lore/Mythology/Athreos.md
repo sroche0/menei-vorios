@@ -5,7 +5,7 @@ domain:
 symbol: 
 ---
 
-%% Who they are, their role among the gods, and how their worship shows up in the world. %%
+Athreos is boatman/river god who ferries souls to their final resting place. very much hates graves being disturbed. 
 
 
 
