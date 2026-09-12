@@ -1,3 +1,4 @@
 Private/
 exclude*
 .DS_Store
+.obsidian/workspace.json
