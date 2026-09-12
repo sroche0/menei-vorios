@@ -1,23 +1,24 @@
 ---
 tags:
   - session
-session:
-date:
+session: 4
+date: 2026-09-12
 pcs:
   -
 ---
 
-We rest after the fight and the poison in the wounds didnt get better. [[D'mia Vuurhand|Dmia]] thinks if we get knocked out again something bad is gonna happen because of it. Gotta be careful. One of the people at camp seems to recognize the name [[Cannoth Estate]] from the note. Seems like we're going to have to head out to [[Toudromi]] to try to track down [[Ivandra]]. We're directed to [[Jerem]] to ask about the lingering wounds from the [[yellow muskreaper]]
+We rest after the fight and the poison in the wounds didnt get better. [[D'mia Vuurhand|Dmia]] thinks if we get knocked out again something bad is gonna happen because of it. Gotta be careful. One of the people at camp seems to recognize the name [[Cannoth Estate]] from the note. Seems like we're going to have to head out to [[Toudromi]] to try to track down [[Ivandra]]. We're directed to [[Jerem]] to ask about the lingering wounds from the [[yellow muskreaper]]. He actually knew a fair bit about them and explained we'd need to find a well trained alchemist or cleric or we'd sprout a new muskreaper from our corpses. We'd probably be able to find either in Toudromi. Before we head out we stop by the quartermaster and [[Kentucky Black|Kentucky]] talks him into giving us a few more healing potions.
 
-
+Master Gren wants us to return after wrapping up our business in the city
 
 ## NPCs Encountered
 
+- Jerem
 - 
 
 ## Loot & Rewards
 
-- 
+- 3 minor healing potions
 
 > [!note]- Hooks for Next Session
 > 
