@@ -50,6 +50,7 @@ Every note type has a template in `Templates/`, each using frontmatter, an `%% O
 - Preserve the in-character voice and existing typos in `Sessions/` logs; don't "fix" them.
 - When a session log mentions an entity, place, or item that doesn't have a note yet, it's fine to create one via the wikilink target, following the existing terse one-liner style.
 - Don't invent plot, lore, or character details beyond what's already in the vault or what the user tells you directly — this is a living record of an actual game, not fiction to extend on your own.
+- **Answer in narrative form by default.** Unless the user specifically asks about a "session", frame answers as prose telling the story (what happened and in what order, in flowing paragraphs) rather than as bulleted or purely factual summaries. Bullets, tables, and list-style breakdowns are reserved for explicit "session" questions (e.g. "give me a summary of session 4").
 
 ## Tooling
 

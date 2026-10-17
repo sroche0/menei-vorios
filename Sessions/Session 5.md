@@ -2,23 +2,20 @@
 tags:
   - session
 session: 5
-date:
+date: 2026-10-17
 pcs:
   -
 ---
+We decide to head to [[Gregorious Goldweaver|goldweaver]]'s first to try to get the spores problem [[Crimini|crimini]] and i have taken care of. We get there and the door is practically hanging off the hinges. We carefully open it and head inside. [[Gregorious Goldweaver|Gregorius]] is....eccentric. We explain the issue with the [[yellow muskreaper]] and i show him the spores stuck in my chest. He sells us 2 potions that should expel the spores from our bodies but he warns it will be extremely painful. And that we should be careful about the spores once they're outside our bodies.
 
-%% Recap goes here: first-person, in-character, present as it happened (typos and all — this is a player's voice, not prose to be polished). Break out any fight inline with a "### Combat" subheading and turn-by-turn bullets, same as previous sessions.
+Apparently the magic ban had something to do with a string of fights and murders related to the [[Phenax|phenax]]. I bought a standard healing potion for 25 gold. We find an alley out of the way and drink the potions. Mine tasted terrible but not the worst thing i've had. Then [[Kentucky Black|Kentucky]] cast a spell on [[Crimini]]'s to make it taste good and i was like, what the hell man?. We stomp out the spores that fly out of our bodies and move on to the warehouse district
 
-If a generic word in this session should link somewhere more specific than its own page (e.g. "shrine" meaning [[Shrine of Thandrios]] just for this session, without touching shrine.md itself or any other session), add a local-aliases list to the frontmatter above before running AutoTag:
-local-aliases:
-  - "shrine -> Shrine of Thandrios"
-This only affects this note. It's a flat list (not a mapping) so Obsidian's Properties panel doesn't flag it as a type mismatch. Omit the field entirely when not needed. %%
+We are able to find the warehouse, and Raya finds several other thieves markings on other warehouses. Dmia manages to find the one with the markings we're looking for. Kentucky suggests disguising himself as Ivandra and going inside to see if they recognize her, with me as Ivandra's body guard. While we wait for dusk Dmia scopes out the guard patrol patterns. Raya Decides to try to infiltrate the building via a window. 
 
-
-
+Raya finds a lot of seemingly forged ledgers of ore shipments to the city of [[Ateleides]]. 
 ## NPCs Encountered
 
-- 
+- [[Gregorious Goldweaver|Gregorius]] [[Gregorious Goldweaver|Goldweaver]]
 
 ## Loot & Rewards
 

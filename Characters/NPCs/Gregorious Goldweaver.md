@@ -2,7 +2,8 @@
 tags:
   - npc
 aliases:
-  - 
+  - Goldweaver
+  - gregorius
 race: gnome
 status: alive
 location: "[[Toudromi]]"
@@ -14,7 +15,7 @@ affiliation:
 
 ## Appearance & Personality
 
-
+Has purple hair
 ## History
 
 
