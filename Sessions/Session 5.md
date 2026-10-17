@@ -12,7 +12,8 @@ Apparently the magic ban had something to do with a string of fights and murders
 
 We are able to find the warehouse, and Raya finds several other thieves markings on other warehouses. Dmia manages to find the one with the markings we're looking for. Kentucky suggests disguising himself as Ivandra and going inside to see if they recognize her, with me as Ivandra's body guard. While we wait for dusk Dmia scopes out the guard patrol patterns. Raya Decides to try to infiltrate the building via a window. 
 
-Raya finds a lot of seemingly forged ledgers of ore shipments to the city of [[Ateleides]]. 
+Raya finds a lot of seemingly forged ledgers of ore shipments to the city of [[Ateleides]]. She continues sneaking around inside. Gregg flies out of the warehouse after some time but no Raya. We are concerned. 
+
 ## NPCs Encountered
 
 - [[Gregorious Goldweaver|Gregorius]] [[Gregorious Goldweaver|Goldweaver]]
