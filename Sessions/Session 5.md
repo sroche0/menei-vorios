@@ -12,7 +12,12 @@ Apparently the magic ban had something to do with a string of fights and murders
 
 We are able to find the warehouse, and Raya finds several other thieves markings on other warehouses. Dmia manages to find the one with the markings we're looking for. Kentucky suggests disguising himself as Ivandra and going inside to see if they recognize her, with me as Ivandra's body guard. While we wait for dusk Dmia scopes out the guard patrol patterns. Raya Decides to try to infiltrate the building via a window. 
 
-Raya finds a lot of seemingly forged ledgers of ore shipments to the city of [[Ateleides]]. She continues sneaking around inside. Gregg flies out of the warehouse after some time but no Raya. We are concerned. 
+Raya finds a lot of seemingly forged ledgers of ore shipments to the city of [[Ateleides]]. She continues sneaking around inside. Gregg flies out of the warehouse after some time but no Raya. We are concerned. After waiting a bit I knock on the door asking for directions to a place to stay. I actually am pretty lost so its not much of a lie. The dwarf that answers is is no mood and tells me to fuck off, fuckin hoser. I go back to the party. Raya manages to message us during this and lets us know shes ok. We decide to wait for whatever shipment or movement is happening. Eventually the workers leave and go home. 
+
+We "sneak" in to the now empty building. Its not very sneaky. Raya opens one of the crates and discovers what feels like a tarp about halfway down. We close the door behind us and almost immediately a few hobgoblins come out of the room across from the door and draw weapons. Guess we were pretty loud. 
+
+#### Combat
+
 
 ## NPCs Encountered
 
