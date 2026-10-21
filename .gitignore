@@ -5,4 +5,5 @@ exclude*
 .obsidian/workspace-mobile.json
 .obsidian/plugins/*/main.js
 .obsidian/plugins/*/styles.css
+.obsidian/themes/*
 __pycache__/
