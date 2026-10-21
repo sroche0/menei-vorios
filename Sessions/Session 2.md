@@ -46,7 +46,7 @@ Bring the ensorcelled egg to the [[cannoth estate]], the master will have furthe
 
 > [!note]- Hooks for Next Session
 > 2 [[Girralon]] attacking as the session ended.
-> Note signed "K" found in [[Ivandra]]'s satchel: bring the egg to the [[cannoth estate]] for further instructions from "the master."
+> Note signed "K" found in [[Ivandra]]'s satchel: bring the egg to the [[Cannoth Estate]] for further instructions from "the master."
 
 ```button
 name AutoTag
