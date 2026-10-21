@@ -30,10 +30,17 @@ We leave the lodge and make our way to Hazelnuts. We got some coffee and the bar
 - 3 minor healing potions
 
 > [!note]- Hooks for Next Session
-> 
+> [[Ganymede]] wants evidence warranting an official investigation into why the heart of the polis is shut down. Meet him back at [[Hazelnuts]].
+> Barista at [[Hazelnuts]] hinted the lords of the city may be sick — possible reason for the lockdown.
+> Find [[Ivandra]], then report back to [[Elle]] and [[Master Gren Leskin]].
+> The [[Cannoth Estate]] is inside the restricted inner ring — no way in yet.
+> Get the [[yellow muskreaper]] spores purged; [[Gregorious Goldweaver]] might do it, but hes very shady.
+> Thieves' cant: a tiefling is running a big job on a warehouse, marked by a downward pointing triangle with an arrow through it. Maybe [[Ivandra]]?
+> [[Raya]] and [[Crimini]] were visited by the river god in a dream/vision.
 
 ```button
 name AutoTag
 type command
 action Shell commands: Execute: Tag Entities
 ```
+^button-autotag

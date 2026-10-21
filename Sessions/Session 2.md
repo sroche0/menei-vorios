@@ -33,6 +33,8 @@ Bring the ensorcelled egg to the [[cannoth estate]], the master will have furthe
   - K
 ```
 
+Turns out [[Ivandra]] was working against us the whole time, but we were able to foil the plan inadvertently and prevent her from stealing the egg.
+
 2 [[Girralon]] charge out of the woods at us
 
 ## NPCs Encountered
@@ -46,7 +48,7 @@ Bring the ensorcelled egg to the [[cannoth estate]], the master will have furthe
 
 > [!note]- Hooks for Next Session
 > 2 [[Girralon]] attacking as the session ended.
-> Note signed "K" found in [[Ivandra]]'s satchel: bring the egg to the [[Cannoth Estate]] for further instructions from "the master."
+> Note signed "K" found in [[Ivandra]]'s satchel: her orders were to bring the egg to the [[Cannoth Estate]] for further instructions from "the master." She failed — we prevented the egg from being stolen and it never left the dig site, still in the [[Phoenicious dawn]]'s hands.
 
 ```button
 name AutoTag

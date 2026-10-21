@@ -18,7 +18,7 @@ Tiefling Scout from camp. Experienced but antisocial
 
 
 ## Relationship to the Party
-Was a fellow guard for the archaeological dig but seems to have been a double agent trying to steal the egg. Fled the area, seemingly to an [[Cannoth Estate|estate]] in [[Toudromi]]
+Was a fellow guard for the archaeological dig but was actually a double agent, under orders from "K" to bring the ensorcelled egg to the [[Cannoth Estate]]. She failed — the party (hired guards for the dig) prevented the egg from being stolen and it never left the dig site, still held by the [[Phoenicious dawn]]. Fled the area, seemingly to an [[Cannoth Estate|estate]] in [[Toudromi]]
 
 
 > [!note]- GM Secrets & Hooks
