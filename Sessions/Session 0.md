@@ -35,7 +35,7 @@ We approach the storehouse which is locked. [[Crimini]] manages to pick the lock
 * [[Crimini]] is attacked again and goes down. 
 * [[Raya]] heals her with lay on hands and gets her back up
 
-After killing the last of the [[darklings]] we take a moment to catch our breath with a short rest and look around the [[Unknown Darkling Shrine|shrine]]. Some of us recognize the statues as being [[eldron]] that are wearing the garb of the fey city of [[Sendrion]]
+After killing the last of the [[darklings]] we take a moment to catch our breath with a short rest and look around the [[Unknown Darkling Shrine|shrine]]. Some of us recognize the statues as being [[Eladrin]] that are wearing the garb of the fey city of [[Sendrion]]
 
 Immediately in front of us when we go through the door in the back is a statue of a nymph looking creature in front of a mural. There is an inscription on the base of the statue that says "Call twice for the [[Alseed]], once for the [[Lumpad]], and once for the [[Naiad]]" The statue has a gong hanging from its hand.
 
