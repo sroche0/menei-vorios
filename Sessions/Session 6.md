@@ -14,7 +14,7 @@ local-aliases:
   - "shrine -> Shrine of Thandrios"
 This only affects this note. It's a flat list (not a mapping) so Obsidian's Properties panel doesn't flag it as a type mismatch. Omit the field entirely when not needed. %%
 
-
+The invisible NPC Dmia bumps into is a duergar. He and a second duergar look startled and then shut the door and shout for guards to come help. Slippery bitches. I try to force the door open and it doesnt budge. We look round quickly for another way out and find a secret passage open in the office the hobgoblins came from. We go in and pull the lever inside to close the passageway. I light a torch and we start travelling down the tunnel. It seems to be well trodden, theres lots of footprints going each direction. We travel down it for about an hour before we run into some stairs. They lead up to another doorway with a lever. 
 
 ## NPCs Encountered
 
