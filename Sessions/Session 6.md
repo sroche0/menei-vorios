@@ -18,8 +18,13 @@ The invisible NPC [[D'mia Vuurhand|Dmia]] bumps into is a duergar. He and a seco
 
 We close the panel behind us and set some things to fall over if it were to open again. We make our way towards the mansion where the muddy footprints (ostensibly from the hobgoblins) seem to lead. We enter a back door of the mansion as the house appears to be fully asleep and walk into a kitchen. It is eerily quiet, as if no one is in the mansion at all. And the kitchen has no food of any kind in it. We follow the footprints out of the kitchen down a hallway. [[Kentucky Black|Kentucky]] detects a magical presence up ahead. [[D'mia Vuurhand|Dmia]] throws a coin down the hallway and nothing happens so we walk down it. It leads to a courtyard with a statue in the middle. A hallway continues on the other side symmetrically from the one we walked down. Theres also an entry way/foyer with stairs heading up to a balcony and a hallway that goes under the stairs back into the mansion. The hallway under the stairs is where the abjuration magic Kentucky has been detecting are coming from. 
 
-The magic is coming from a magically locked door. THe mages can tell what spell was used to lock it but have no way to open it. I try knocking on the door but nothing happened. We investigate upstairs to try to find some way to open it.
+The magic is coming from a magically locked door. THe mages can tell what spell was used to lock it but have no way to open it. I try knocking on the door but nothing happened. We investigate upstairs to try to find some way to open it. The first room we check has nothing in it. The second room has 4 Eldarin statues in the corners facing the center of the room with mournful expressions. Its a puzzle dealing with basins of liquid and the order of adding things to them, either blood or water based on the poem on the floor in the center
 
+One who weeps at sight of blood
+stands next go glad brother
+one who weeps mouth too dry from cruel master at his right
+
+we got it wrong and the statues turned into suits of animated armor. we have to fight.
 ## NPCs Encountered
 
 - 
